@@ -1,4 +1,7 @@
 node_modules
 lib
-
-.npmrc
+**/*.d.ts
+**/*.jsx
+**/*.js
+/.idea/
+/dist/
