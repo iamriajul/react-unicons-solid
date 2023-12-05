@@ -4,4 +4,3 @@ lib
 **/*.jsx
 **/*.js
 /.idea/
-/dist/
